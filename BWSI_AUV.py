@@ -4,6 +4,8 @@ Created on Thu Mar  4 20:23:11 2021
 
 @author: JO20993
 """
+
+import numpy as np
 import utm
 
 #from BWSI_Laser import Laser
